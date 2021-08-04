@@ -1,1 +1,1 @@
-this is answer 231A codeforces
+the answer is 231A codeforces
